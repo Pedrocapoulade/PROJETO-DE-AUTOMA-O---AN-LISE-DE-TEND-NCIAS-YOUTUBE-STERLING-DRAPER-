@@ -1,0 +1,3 @@
+Link dashboard no servidor tableau:
+
+https://public.tableau.com/app/profile/pedro.capoulade/viz/YouTubeTrendingAnalysis/YouTubeTrendingAnalysis-ContentPerformanceDashboard?publish=yes
